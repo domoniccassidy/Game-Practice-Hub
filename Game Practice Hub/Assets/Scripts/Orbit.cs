@@ -20,7 +20,7 @@ public class Orbit : MonoBehaviour
             var newSpeed = OrbitSpeed.y + orginialY* 0.004f;
             OrbitSpeed = new Vector3(0, newSpeed, 0);
         }
-        else if (Input.GetKey(KeyCode.DownArrow) && OrbitSpeed.y > orginialY)
+        else if (Input.GetKey(KeyCode.DownArrow) && OrbitSpeed.y > (orginialY/2))
         {
             var newSpeed = OrbitSpeed.y - orginialY * 0.004f;
             OrbitSpeed = new Vector3(0, newSpeed, 0);
