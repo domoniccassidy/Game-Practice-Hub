@@ -4,14 +4,49 @@ using UnityEngine;
 
 public class PlatformPlayer : MonoBehaviour
 {
+    [SerializeField] Transform checkGroundTransform;
+    [SerializeField] private LayerMask playerMask;
+    bool shouldPlayerJump = false;
+    float horiInput;
+    Rigidbody rigidComponent;
    
+
     // Update is called once per frame
     void Update()
     {
-        if (Input.GetKeyDown(KeyCode.W) && GetComponent<Rigidbody>().velocity.y == 0)
+       
+        if (Input.GetKeyDown(KeyCode.W) )
         {
-            Debug.Log("hi");
-            GetComponent<Rigidbody>().AddForce(Vector3.up * 5, ForceMode.VelocityChange);
-        }   
+            shouldPlayerJump = true;
+
+        }
+        horiInput = Input.GetAxis("Horizontal");    
+        
     }
+    void FixedUpdate()
+    {
+        rigidComponent = GetComponent<Rigidbody>();
+        rigidComponent.velocity = new Vector3(horiInput * 1.5f, rigidComponent.velocity.y, 0);
+
+        if (Physics.OverlapSphere(checkGroundTransform.position,0.07f,playerMask).Length == 0)
+        {
+            return;
+        }
+        if (shouldPlayerJump)
+        {
+            rigidComponent.AddForce(Vector3.up * 5, ForceMode.VelocityChange);
+            shouldPlayerJump = false;
+        }
+    
+    }
+    private void OnTriggerEnter(Collider other)
+    {
+        Debug.Log("Hekki");
+        if(other.gameObject.layer == 8)
+        {
+            Destroy(gameObject);
+        }
+    }
+
+
 }
