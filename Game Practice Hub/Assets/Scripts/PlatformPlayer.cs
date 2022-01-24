@@ -26,7 +26,7 @@ public class PlatformPlayer : MonoBehaviour
     void FixedUpdate()
     {
         rigidComponent = GetComponent<Rigidbody>();
-        rigidComponent.velocity = new Vector3(horiInput * 1.5f, rigidComponent.velocity.y, 0);
+        rigidComponent.velocity = new Vector3(horiInput * 2f, rigidComponent.velocity.y, 0);
 
         if (Physics.OverlapSphere(checkGroundTransform.position,0.07f,playerMask).Length == 0)
         {
@@ -34,14 +34,14 @@ public class PlatformPlayer : MonoBehaviour
         }
         if (shouldPlayerJump)
         {
-            rigidComponent.AddForce(Vector3.up * 5, ForceMode.VelocityChange);
+            rigidComponent.AddForce(Vector3.up * 8, ForceMode.VelocityChange);
             shouldPlayerJump = false;
         }
     
     }
     private void OnTriggerEnter(Collider other)
     {
-        Debug.Log("Hekki");
+
         if(other.gameObject.layer == 8)
         {
             Destroy(gameObject);
