@@ -8,9 +8,13 @@ public class ArenaPlayer : MonoBehaviour
     [SerializeField] private Vector3 rotationSpeed;
     private float horizontalInput;
     private float verticalInput;
-  
+
 
     // Update is called once per frame
+    private void Start()
+    {
+        Cursor.visible = false;
+    }
     void Update()
     {
 
