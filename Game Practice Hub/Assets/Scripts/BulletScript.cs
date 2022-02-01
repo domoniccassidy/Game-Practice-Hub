@@ -9,4 +9,5 @@ public class BulletScript : MonoBehaviour
         Debug.Log("Hit " + other.gameObject.name);
         Destroy(other.gameObject);
     }
+   
 }

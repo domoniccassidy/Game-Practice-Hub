@@ -6,14 +6,20 @@ public class ArenaPlayer : MonoBehaviour
 {
     [SerializeField] private float movementSpeed;
     [SerializeField] private Vector3 rotationSpeed;
+    public HealthBarScript healthBar;
+   
+    public int maxHealth;
+    private int currentHealth;
     private float horizontalInput;
     private float verticalInput;
+    
 
 
     // Update is called once per frame
     private void Start()
     {
-        Cursor.visible = false;
+        currentHealth = maxHealth;
+        healthBar.SetMaxHealth(maxHealth);
     }
     void Update()
     {
@@ -35,6 +41,11 @@ public class ArenaPlayer : MonoBehaviour
             transform.Rotate(-rotationSpeed);
         }
 
+    }
+    public void Damage(int damage)
+    {
+        currentHealth -= damage;
+        healthBar.SetHealth(currentHealth);
     }
     
 }

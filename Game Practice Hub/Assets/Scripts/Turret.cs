@@ -33,9 +33,13 @@ public class Turret : MonoBehaviour
         Physics.IgnoreCollision(bullet.GetComponent<Collider>(), bulletStart.parent.GetComponent<Collider>());
         bullet.transform.position = bulletStart.position;
         bullet.GetComponent<Rigidbody>().AddForce(bulletStart.forward * bulletSpeed, ForceMode.Impulse);
+        StartCoroutine(FadeBullet(bullet,2));
 
-        
+    }
+    private IEnumerator FadeBullet(GameObject bullet, float delay)
+    {
+        yield return new WaitForSeconds(delay);
 
-
+        Destroy(bullet);
     }
 }
