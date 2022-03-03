@@ -1,0 +1,609 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.8f1 (507919d4fff5) revision 5273881'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 18363.592; Version 1909; 64bit' Language: 'en' Physical Memory: 8034 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.8f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/Sheffield Hallam University/Year 2/Game Deb/Game-Practice-Hub/Game Practice Hub
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+52454
+Successfully changed project path to: D:/Sheffield Hallam University/Year 2/Game Deb/Game-Practice-Hub/Game Practice Hub
+D:/Sheffield Hallam University/Year 2/Game Deb/Game-Practice-Hub/Game Practice Hub
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 49.66 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.8f1 (507919d4fff5)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.8f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/Sheffield Hallam University/Year 2/Game Deb/Game-Practice-Hub/Game Practice Hub/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1060 (ID=0x1c20)
+    Vendor:   
+    VRAM:     6052 MB
+    Driver:   26.21.14.3064
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.8f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.8f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.8f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56588
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.8f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.003050 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 47.59 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.608 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.004576 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file data-000001D5CB3533F0 doesn't match image D:\Sheffield Hallam University\Year 2\Game Deb\Game-Practice-Hub\Game Practice Hub\Library\ScriptAssemblies\Unity.Services.Core.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001D5C6479550 doesn't match image D:\Sheffield Hallam University\Year 2\Game Deb\Game-Practice-Hub\Game Practice Hub\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001D5CAB0B010 doesn't match image D:\Sheffield Hallam University\Year 2\Game Deb\Game-Practice-Hub\Game Practice Hub\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001D5CB3533F0 doesn't match image D:\Sheffield Hallam University\Year 2\Game Deb\Game-Practice-Hub\Game Practice Hub\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001D5C6AB6990 doesn't match image D:\Sheffield Hallam University\Year 2\Game Deb\Game-Practice-Hub\Game Practice Hub\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001D5C9C56020 doesn't match image D:\Sheffield Hallam University\Year 2\Game Deb\Game-Practice-Hub\Game Practice Hub\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001D5CA457E20 doesn't match image D:\Sheffield Hallam University\Year 2\Game Deb\Game-Practice-Hub\Game Practice Hub\Library\ScriptAssemblies\Unity.Timeline.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001D5C68CA830 doesn't match image D:\Sheffield Hallam University\Year 2\Game Deb\Game-Practice-Hub\Game Practice Hub\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001D5CA457E20 doesn't match image D:\Sheffield Hallam University\Year 2\Game Deb\Game-Practice-Hub\Game Practice Hub\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001D5C9C56020 doesn't match image D:\Sheffield Hallam University\Year 2\Game Deb\Game-Practice-Hub\Game Practice Hub\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001D5C9E1E020 doesn't match image D:\Sheffield Hallam University\Year 2\Game Deb\Game-Practice-Hub\Game Practice Hub\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001D5C63CB010 doesn't match image D:\Sheffield Hallam University\Year 2\Game Deb\Game-Practice-Hub\Game Practice Hub\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.46 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.611 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.07 seconds
+Refreshing native plugins compatible for Editor in 0.71 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1511 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 73.8 MB.
+System memory in use after: 73.9 MB.
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 1951.
+Total: 3.082700 ms (FindLiveObjects: 0.381900 ms CreateObjectMapping: 0.122000 ms MarkObjects: 2.490600 ms  DeleteObjects: 0.086700 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Prefabs/NoobPig.prefab
+  artifactKey: Guid(ef58a123331f5a64fa29fb3a52383fc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/NoobPig.prefab using Guid(ef58a123331f5a64fa29fb3a52383fc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e8d61eda4c1f8293cd330d712ed49ae') in 0.221359 seconds
+  Import took 0.225129 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000378 seconds.
+  path: Assets/Prefabs/SlidyMaterial.physicMaterial
+  artifactKey: Guid(fa872d112c348714289da042241f6c3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/SlidyMaterial.physicMaterial using Guid(fa872d112c348714289da042241f6c3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2fcdc6a0b102bb0736a056f4b46a8c62') in 0.019211 seconds
+  Import took 0.022629 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000324 seconds.
+  path: Assets/Prefabs/Orange Star.prefab
+  artifactKey: Guid(4ceaceff18494e847b8e085240d708ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Orange Star.prefab using Guid(4ceaceff18494e847b8e085240d708ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed3b4a6b9322261b88bfdf647983f249') in 0.129952 seconds
+  Import took 0.134144 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000440 seconds.
+  path: Assets/Prefabs/Gas Giant.prefab
+  artifactKey: Guid(493ab75120f75d44998c0b4703f886d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Gas Giant.prefab using Guid(493ab75120f75d44998c0b4703f886d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a4c0f1b3b799c6c767c9914b0e7031b') in 0.018612 seconds
+  Import took 0.023494 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000400 seconds.
+  path: Assets/Prefabs/PlatBlock1.prefab
+  artifactKey: Guid(581f24138e186044995d32650c785bb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/PlatBlock1.prefab using Guid(581f24138e186044995d32650c785bb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c4b57afb94db4dbfce41f195d184762') in 0.043916 seconds
+  Import took 0.047439 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000395 seconds.
+  path: Assets/Prefabs/Vines.mat
+  artifactKey: Guid(f34949d162988534e9a2496502ad6524) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Vines.mat using Guid(f34949d162988534e9a2496502ad6524) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '36739174d2710295b9eaa6ee15574a71') in 0.069012 seconds
+  Import took 0.072355 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000360 seconds.
+  path: Assets/Sprites/Bar.png
+  artifactKey: Guid(e21c39d5c1b9ced47aa2ed9137cf99c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Bar.png using Guid(e21c39d5c1b9ced47aa2ed9137cf99c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ebe12ad3504285243aefbbfc8a5f11d0') in 0.058301 seconds
+  Import took 0.061655 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000318 seconds.
+  path: Assets/Prefabs/ClimbingMaterial.physicMaterial
+  artifactKey: Guid(6b91393a0ac92e142a75885d0d38f85f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/ClimbingMaterial.physicMaterial using Guid(6b91393a0ac92e142a75885d0d38f85f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad6d307c8c5b57e36b8cb95841cd91e4') in 0.015751 seconds
+  Import took 0.019001 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000311 seconds.
+  path: Assets/Prefabs/Tank.prefab
+  artifactKey: Guid(f198505f871231e43bb14fb1d915edb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Tank.prefab using Guid(f198505f871231e43bb14fb1d915edb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ccd8f65de8c05972cd60301efc4b6b5a') in 0.044366 seconds
+  Import took 0.048187 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000344 seconds.
+  path: Assets/Prefabs/Rocky Planet.prefab
+  artifactKey: Guid(d02dc09cacb22d248a71fe8d06641ab6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Rocky Planet.prefab using Guid(d02dc09cacb22d248a71fe8d06641ab6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f0cad3321f0fa13656c871718c48c4d5') in 0.015329 seconds
+  Import took 0.018702 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000993 seconds.
+  path: Assets/Prefabs/Bullet.prefab
+  artifactKey: Guid(b981cca99dd01d247ba4e9565c7aa72e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Bullet.prefab using Guid(b981cca99dd01d247ba4e9565c7aa72e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6be502a64609181f120274944e1978b8') in 0.027939 seconds
+  Import took 0.032364 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000536 seconds.
+  path: Assets/Prefabs/Player1.prefab
+  artifactKey: Guid(ab4b13ceed8401748bd8825398fa9a00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Player1.prefab using Guid(ab4b13ceed8401748bd8825398fa9a00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b38b53f6e3462795164cad516692903b') in 0.020251 seconds
+  Import took 0.024602 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000386 seconds.
+  path: Assets/Sprites/Heart.png
+  artifactKey: Guid(6dcacdb6d3cd0054b8cb53f3bfa73abb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Heart.png using Guid(6dcacdb6d3cd0054b8cb53f3bfa73abb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8fdf47312754b7de001e224d8ba15eb3') in 0.030684 seconds
+  Import took 0.046311 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000338 seconds.
+  path: Assets/Prefabs/Vineblock 1.prefab
+  artifactKey: Guid(ba22dc470319614499ace452528a7ba4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Vineblock 1.prefab using Guid(ba22dc470319614499ace452528a7ba4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd199760514d9f580b5a472ff9cff37a6') in 0.015194 seconds
+  Import took 0.028790 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.466018 seconds.
+  path: Assets/Materials/Blue Gassy.mat
+  artifactKey: Guid(0b628f64fa99f6d41b1134eb1ae1da35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Blue Gassy.mat using Guid(0b628f64fa99f6d41b1134eb1ae1da35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b4883a8a18ab9603a64a6dda8884f57') in 0.016045 seconds
+  Import took 0.120302 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000344 seconds.
+  path: Assets/Materials/Red Rocky.mat
+  artifactKey: Guid(ba020ff4b7e18f44aafc8152eedff6d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Red Rocky.mat using Guid(ba020ff4b7e18f44aafc8152eedff6d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '05c2dc8bc0aedcccced63e95e066f1bd') in 0.023747 seconds
+  Import took 0.044496 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000404 seconds.
+  path: Assets/Materials/Moon 1.mat
+  artifactKey: Guid(4f08c1ac4055fa24a8e76a99623d7119) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Moon 1.mat using Guid(4f08c1ac4055fa24a8e76a99623d7119) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a1333610a7c6a7e8c1b4d415e75d9b1') in 0.054632 seconds
+  Import took 0.068714 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000347 seconds.
+  path: Assets/Materials/Platform.mat
+  artifactKey: Guid(082f23b319e024240b9938b5195adb94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Platform.mat using Guid(082f23b319e024240b9938b5195adb94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4afd397887e6b2d5b333e60ac00ad87a') in 0.019516 seconds
+  Import took 0.053637 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000350 seconds.
+  path: Assets/Materials/Floor.mat
+  artifactKey: Guid(4bd2b5231547df84db4707ba3fa1b73e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Floor.mat using Guid(4bd2b5231547df84db4707ba3fa1b73e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eafdb49efe38b7c35305d87941b474af') in 0.019366 seconds
+  Import took 0.030655 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000920 seconds.
+  path: Assets/Materials/Orange Star.mat
+  artifactKey: Guid(e771a5e645019214b8330b6b7a0a8db2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Orange Star.mat using Guid(e771a5e645019214b8330b6b7a0a8db2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e93d625f785d9a555c3bf71c740f1c02') in 0.016450 seconds
+  Import took 0.037287 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000317 seconds.
+  path: Assets/Materials/Pink Gassy.mat
+  artifactKey: Guid(a3ed84a5539333c40aabb3984d64c961) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Pink Gassy.mat using Guid(a3ed84a5539333c40aabb3984d64c961) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '713a8a9dfab390d9a845c0f5983d4879') in 0.017899 seconds
+  Import took 0.033156 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000483 seconds.
+  path: Assets/Materials/UFO.mat
+  artifactKey: Guid(7200bcc5ab9f2184bb92468fa4998fa4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/UFO.mat using Guid(7200bcc5ab9f2184bb92468fa4998fa4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '301087f0b412aa765e785b3ce2c6369d') in 0.016845 seconds
+  Import took 0.020664 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000369 seconds.
+  path: Assets/Materials/Pink Gassy.mat
+  artifactKey: Guid(a3ed84a5539333c40aabb3984d64c961) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Pink Gassy.mat using Guid(a3ed84a5539333c40aabb3984d64c961) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '713a8a9dfab390d9a845c0f5983d4879') in 0.027796 seconds
+  Import took 0.031547 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.912191 seconds.
+  path: Assets/Scenes
+  artifactKey: Guid(db466149ecc9a9d4d8dea4285fb5f78b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes using Guid(db466149ecc9a9d4d8dea4285fb5f78b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a74b5b5c650446a3fa6ca81307ab0eca') in 0.007794 seconds
+  Import took 0.067129 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 165.364034 seconds.
+  path: Assets/Scenes/Kartie.unity
+  artifactKey: Guid(80098a33b183aab4a9d8f59b8ceac5d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Kartie.unity using Guid(80098a33b183aab4a9d8f59b8ceac5d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '75cfbb71416b4fa8d4beb84aa2127e11') in 0.011167 seconds
+  Import took 0.039482 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 404.600869 seconds.
+  path: Assets/Unity Store/Low Poly Missile Laucher/Missile.obj
+  artifactKey: Guid(b22315af08415514d9b3b50cb71e1216) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Store/Low Poly Missile Laucher/Missile.obj using Guid(b22315af08415514d9b3b50cb71e1216) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17d19d1f184adcf25692a586ef270c96') in 5.187786 seconds
+  Import took 5.320534 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 16.524447 seconds.
+  path: Assets/Unity Store/Low Poly Missile Laucher/defaultMat.mat
+  artifactKey: Guid(5702bce330d71cd42885025870697c9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Store/Low Poly Missile Laucher/defaultMat.mat using Guid(5702bce330d71cd42885025870697c9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ab05d9dcc03a60b90fdcfc00091f659') in 1.191478 seconds
+  Import took 1.229772 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.681504 seconds.
+  path: Assets/Scripts
+  artifactKey: Guid(c3db0937dcf0eb24bbf3d4319fdb83b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts using Guid(c3db0937dcf0eb24bbf3d4319fdb83b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df7f0fac22ac2ea5955cf74238dee5a4') in 0.009848 seconds
+  Import took 0.033476 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.612197 seconds.
+  path: Assets/Sprites
+  artifactKey: Guid(1c317cce4c84244479852dccb598abe6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites using Guid(1c317cce4c84244479852dccb598abe6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd18bdd060a1f5dcdc519b8e6d7bd725b') in 0.129829 seconds
+  Import took 0.133209 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 41.828977 seconds.
+  path: Assets/Sprites/grass/tilable-IMG_0044-dark.png
+  artifactKey: Guid(2d0d5aeb8a82cd142b7135f132a4ab32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/grass/tilable-IMG_0044-dark.png using Guid(2d0d5aeb8a82cd142b7135f132a4ab32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aaeebd522a1fe27c99b35616a821abf5') in 0.017852 seconds
+  Import took 0.022343 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000378 seconds.
+  path: Assets/Sprites/grass/tilable-IMG_0044-grey.png
+  artifactKey: Guid(1cf861fd5e40a5047af8249a5a8bcc93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/grass/tilable-IMG_0044-grey.png using Guid(1cf861fd5e40a5047af8249a5a8bcc93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a5de2756557bb302d03c38e50ea3f298') in 0.119079 seconds
+  Import took 0.137466 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000403 seconds.
+  path: Assets/Sprites/grass/tilable-IMG_0044-verydark.png
+  artifactKey: Guid(77f05ec187c6f864b8574bd4a93473ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/grass/tilable-IMG_0044-verydark.png using Guid(77f05ec187c6f864b8574bd4a93473ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef135e10c20eea1d863246695f5adfd9') in 0.024343 seconds
+  Import took 0.028716 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000373 seconds.
+  path: Assets/Sprites/grass/tilable-IMG_0044-grey1.png
+  artifactKey: Guid(592728cf80d09b142a0247fa78566d69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/grass/tilable-IMG_0044-grey1.png using Guid(592728cf80d09b142a0247fa78566d69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '03d46796a071cfda0b67233ddc555df7') in 0.023188 seconds
+  Import took 0.041288 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000339 seconds.
+  path: Assets/Sprites/grass/tilable-IMG_0044_nm.png
+  artifactKey: Guid(dfe06045814cfe14fb9b34ef338c8dd4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/grass/tilable-IMG_0044_nm.png using Guid(dfe06045814cfe14fb9b34ef338c8dd4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f56c0fca141b5b80cfb2ed20c5d9106') in 0.032359 seconds
+  Import took 0.036466 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000353 seconds.
+  path: Assets/Sprites/grass/tilable-IMG_0044.png
+  artifactKey: Guid(566c21fc4bf706347876e1c77feeb588) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/grass/tilable-IMG_0044.png using Guid(566c21fc4bf706347876e1c77feeb588) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ddaea1a67c1232b4ea111f54558c9978') in 0.030653 seconds
+  Import took 0.057411 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000446 seconds.
+  path: Assets/Sprites/grass/tilable-IMG_0044-lush.png
+  artifactKey: Guid(bc54bf5a651a7384f80a251cdd8f2cf1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/grass/tilable-IMG_0044-lush.png using Guid(bc54bf5a651a7384f80a251cdd8f2cf1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '508172a6d147cd2da4917eb90fcfbced') in 0.023034 seconds
+  Import took 0.058031 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000270 seconds.
+  path: Assets/Sprites/grass
+  artifactKey: Guid(1a024dca714dc1d449ca0d36694dbb80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/grass using Guid(1a024dca714dc1d449ca0d36694dbb80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '54918fb5bf1b7d91a5f1552925c2b3aa') in 0.007794 seconds
+  Import took 0.022926 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 172.266178 seconds.
+  path: Assets/Sprites/grass/Materials/tilable-IMG_0044-grey1.mat
+  artifactKey: Guid(03b4c322a700226419d8b6c5c506e0c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/grass/Materials/tilable-IMG_0044-grey1.mat using Guid(03b4c322a700226419d8b6c5c506e0c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa14a632bc25a04e9a0432bb87f25e5d') in 0.027346 seconds
+  Import took 0.156941 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005804 seconds.
+  path: Assets/Sprites/grass/Materials/tilable-IMG_0044-grey1.mat
+  artifactKey: Guid(03b4c322a700226419d8b6c5c506e0c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/grass/Materials/tilable-IMG_0044-grey1.mat using Guid(03b4c322a700226419d8b6c5c506e0c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa14a632bc25a04e9a0432bb87f25e5d') in 0.018841 seconds
+  Import took 0.022691 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 32.104767 seconds.
+  path: Assets/Materials
+  artifactKey: Guid(91c337d8ab479b744b52445c32ed7b7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials using Guid(91c337d8ab479b744b52445c32ed7b7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '14d092bf8e7442a018b8057cab1b00ee') in 0.009130 seconds
+  Import took 0.124400 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.017370 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file data-000001D5CAA4D830 doesn't match image D:\Sheffield Hallam University\Year 2\Game Deb\Game-Practice-Hub\Game Practice Hub\Library\ScriptAssemblies\Unity.Services.Core.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001D5CA24DC60 doesn't match image D:\Sheffield Hallam University\Year 2\Game Deb\Game-Practice-Hub\Game Practice Hub\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001D5C6FB3620 doesn't match image D:\Sheffield Hallam University\Year 2\Game Deb\Game-Practice-Hub\Game Practice Hub\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001D5CF3B6D40 doesn't match image D:\Sheffield Hallam University\Year 2\Game Deb\Game-Practice-Hub\Game Practice Hub\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001D5C9FA2A20 doesn't match image D:\Sheffield Hallam University\Year 2\Game Deb\Game-Practice-Hub\Game Practice Hub\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001D5CE0F56B0 doesn't match image D:\Sheffield Hallam University\Year 2\Game Deb\Game-Practice-Hub\Game Practice Hub\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001D5CA836CF0 doesn't match image D:\Sheffield Hallam University\Year 2\Game Deb\Game-Practice-Hub\Game Practice Hub\Library\ScriptAssemblies\Unity.Timeline.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001D5C9FD4010 doesn't match image D:\Sheffield Hallam University\Year 2\Game Deb\Game-Practice-Hub\Game Practice Hub\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001D5CA836CF0 doesn't match image D:\Sheffield Hallam University\Year 2\Game Deb\Game-Practice-Hub\Game Practice Hub\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001D5C6ACFB70 doesn't match image D:\Sheffield Hallam University\Year 2\Game Deb\Game-Practice-Hub\Game Practice Hub\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001D5C9E1E020 doesn't match image D:\Sheffield Hallam University\Year 2\Game Deb\Game-Practice-Hub\Game Practice Hub\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001D5CAA4D830 doesn't match image D:\Sheffield Hallam University\Year 2\Game Deb\Game-Practice-Hub\Game Practice Hub\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.51 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.529 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.48 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1505 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 78.3 MB.
+System memory in use after: 78.4 MB.
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 2005.
+Total: 2.832100 ms (FindLiveObjects: 0.221000 ms CreateObjectMapping: 0.071800 ms MarkObjects: 2.494300 ms  DeleteObjects: 0.043700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.629456 seconds.
+  path: Assets/Materials/Grass.mat
+  artifactKey: Guid(d081456b3a6f1b04ebdae8cfc83e7b8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Grass.mat using Guid(d081456b3a6f1b04ebdae8cfc83e7b8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '18347e6c83702f6c681655479403b14d') in 0.099054 seconds
+  Import took 0.103830 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004542 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file data-000001D5CEC62CD0 doesn't match image D:\Sheffield Hallam University\Year 2\Game Deb\Game-Practice-Hub\Game Practice Hub\Library\ScriptAssemblies\Unity.Services.Core.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001D5CEC6D140 doesn't match image D:\Sheffield Hallam University\Year 2\Game Deb\Game-Practice-Hub\Game Practice Hub\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001D5C6FB3620 doesn't match image D:\Sheffield Hallam University\Year 2\Game Deb\Game-Practice-Hub\Game Practice Hub\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001D5C6DDC320 doesn't match image D:\Sheffield Hallam University\Year 2\Game Deb\Game-Practice-Hub\Game Practice Hub\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001D5CA243E30 doesn't match image D:\Sheffield Hallam University\Year 2\Game Deb\Game-Practice-Hub\Game Practice Hub\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001D5D2374B10 doesn't match image D:\Sheffield Hallam University\Year 2\Game Deb\Game-Practice-Hub\Game Practice Hub\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001D5D22AFE00 doesn't match image D:\Sheffield Hallam University\Year 2\Game Deb\Game-Practice-Hub\Game Practice Hub\Library\ScriptAssemblies\Unity.Timeline.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001D5CED3D6D0 doesn't match image D:\Sheffield Hallam University\Year 2\Game Deb\Game-Practice-Hub\Game Practice Hub\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001D5CA243E30 doesn't match image D:\Sheffield Hallam University\Year 2\Game Deb\Game-Practice-Hub\Game Practice Hub\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001D5CBAD8420 doesn't match image D:\Sheffield Hallam University\Year 2\Game Deb\Game-Practice-Hub\Game Practice Hub\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001D5CB5AF390 doesn't match image D:\Sheffield Hallam University\Year 2\Game Deb\Game-Practice-Hub\Game Practice Hub\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001D5CEC62CD0 doesn't match image D:\Sheffield Hallam University\Year 2\Game Deb\Game-Practice-Hub\Game Practice Hub\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.47 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.460 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.48 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1505 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 78.3 MB.
+System memory in use after: 78.4 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 2008.
+Total: 3.048100 ms (FindLiveObjects: 0.213000 ms CreateObjectMapping: 0.079700 ms MarkObjects: 2.730500 ms  DeleteObjects: 0.023200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 97.661372 seconds.
+  path: Assets/Materials/Grass.mat
+  artifactKey: Guid(d081456b3a6f1b04ebdae8cfc83e7b8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Grass.mat using Guid(d081456b3a6f1b04ebdae8cfc83e7b8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c94569a54a49ce375f688500212c4fb') in 0.087954 seconds
+  Import took 0.091523 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000502 seconds.
+  path: Assets/Materials/Moon 1.mat
+  artifactKey: Guid(4f08c1ac4055fa24a8e76a99623d7119) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Moon 1.mat using Guid(4f08c1ac4055fa24a8e76a99623d7119) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '03309b36b1eb76fd22e940712a80ba6e') in 0.013801 seconds
+  Import took 0.017196 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004589 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file data-000001D5CDF63160 doesn't match image D:\Sheffield Hallam University\Year 2\Game Deb\Game-Practice-Hub\Game Practice Hub\Library\ScriptAssemblies\Unity.Services.Core.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001D5CEBCED60 doesn't match image D:\Sheffield Hallam University\Year 2\Game Deb\Game-Practice-Hub\Game Practice Hub\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001D5CB635030 doesn't match image D:\Sheffield Hallam University\Year 2\Game Deb\Game-Practice-Hub\Game Practice Hub\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001D5CB7B1820 doesn't match image D:\Sheffield Hallam University\Year 2\Game Deb\Game-Practice-Hub\Game Practice Hub\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001D5CF3B6D40 doesn't match image D:\Sheffield Hallam University\Year 2\Game Deb\Game-Practice-Hub\Game Practice Hub\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001D5D2374010 doesn't match image D:\Sheffield Hallam University\Year 2\Game Deb\Game-Practice-Hub\Game Practice Hub\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001D5CA585040 doesn't match image D:\Sheffield Hallam University\Year 2\Game Deb\Game-Practice-Hub\Game Practice Hub\Library\ScriptAssemblies\Unity.Timeline.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001D5C68CA830 doesn't match image D:\Sheffield Hallam University\Year 2\Game Deb\Game-Practice-Hub\Game Practice Hub\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001D5CDFC0060 doesn't match image D:\Sheffield Hallam University\Year 2\Game Deb\Game-Practice-Hub\Game Practice Hub\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001D5CE71A170 doesn't match image D:\Sheffield Hallam University\Year 2\Game Deb\Game-Practice-Hub\Game Practice Hub\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001D5CA802030 doesn't match image D:\Sheffield Hallam University\Year 2\Game Deb\Game-Practice-Hub\Game Practice Hub\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001D5CF7B2050 doesn't match image D:\Sheffield Hallam University\Year 2\Game Deb\Game-Practice-Hub\Game Practice Hub\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.50 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.441 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.48 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1505 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 78.3 MB.
+System memory in use after: 78.4 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 2011.
+Total: 2.794900 ms (FindLiveObjects: 0.245400 ms CreateObjectMapping: 0.076900 ms MarkObjects: 2.447600 ms  DeleteObjects: 0.023500 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 175.609274 seconds.
+  path: Assets/PhysicsMaterials
+  artifactKey: Guid(4d5cad87a1ba189469789421cf475fd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PhysicsMaterials using Guid(4d5cad87a1ba189469789421cf475fd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b86f7adbcb5040d14899202e759f170') in 0.010810 seconds
+  Import took 0.098625 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 25.055637 seconds.
+  path: Assets/PhysicsMaterials/New Physics Material 2D.physicsMaterial2D
+  artifactKey: Guid(913ad11a5ede17c43a580bf639df0a4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PhysicsMaterials/New Physics Material 2D.physicsMaterial2D using Guid(913ad11a5ede17c43a580bf639df0a4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9456bc31fbd2a2f47ce6279b6e69ed59') in 0.024852 seconds
+  Import took 0.130306 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002563 seconds.
+  path: Assets/PhysicsMaterials/New Physics Material 2D.physicsMaterial2D
+  artifactKey: Guid(913ad11a5ede17c43a580bf639df0a4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PhysicsMaterials/New Physics Material 2D.physicsMaterial2D using Guid(913ad11a5ede17c43a580bf639df0a4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9456bc31fbd2a2f47ce6279b6e69ed59') in 0.003277 seconds
+  Import took 0.007676 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 20.599043 seconds.
+  path: Assets/PhysicsMaterials/GrassPhysics.physicMaterial
+  artifactKey: Guid(0a6f2c173fa33bb469ce2d298fff5f9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PhysicsMaterials/GrassPhysics.physicMaterial using Guid(0a6f2c173fa33bb469ce2d298fff5f9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '384ec13e21635e60411a1f1c4d613b1a') in 0.009130 seconds
+  Import took 0.020393 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008223 seconds.
+  path: Assets/PhysicsMaterials/GrassPhysics.physicMaterial
+  artifactKey: Guid(0a6f2c173fa33bb469ce2d298fff5f9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PhysicsMaterials/GrassPhysics.physicMaterial using Guid(0a6f2c173fa33bb469ce2d298fff5f9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '384ec13e21635e60411a1f1c4d613b1a') in 0.012528 seconds
+  Import took 0.016171 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
