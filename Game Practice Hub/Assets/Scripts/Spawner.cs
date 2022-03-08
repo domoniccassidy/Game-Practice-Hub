@@ -15,7 +15,6 @@ public class Spawner : MonoBehaviour
         {
             GameObject newEnemy = Instantiate(enemy);
             newEnemy.GetComponent<Enemy>().Player = player;
-            newEnemy.GetComponent<Enemy>().MovementSpeed = 4;
             newEnemy.GetComponent<Enemy>().damage = 10;
             newEnemy.GetComponent<Enemy>().playerScript = this.playerScript;
 
