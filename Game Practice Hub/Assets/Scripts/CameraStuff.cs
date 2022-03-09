@@ -7,7 +7,7 @@ public class CameraStuff : MonoBehaviour
     public GameObject car;
     public float distance = 5f;
     public float height = 2f;
-    public float dampening = .5f;
+    public float dampening = 100f;
     
     // Update is called once per frame
 
